@@ -1,0 +1,29 @@
+*{
+   color:blue /* lowest priority*/
+}
+
+h1{
+    color:aqua
+}   
+#first{
+    color:burlywood
+}   
+.second{
+    color:brown  /* third and fourth heading have same class  name */
+}     
+h2,h3,h4{
+    color:blueviolet
+}
+practice
+div p{
+   color:chartreuse;
+}
+p{
+    color:rgb(25, 109, 111)
+}
+#heading{
+    color:rgb(156, 177, 21);
+}
+#first_div,#second_div{
+    color:rgb(4, 61, 42);
+}
